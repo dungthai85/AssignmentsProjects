@@ -1,5 +1,8 @@
 # AssignmentsProjects
 
+TCSS372 Computer Architecture
+MIPS_Simulator - Containing a very simple Mips Simulator that I did as a group project.
+
 TCSS305 Programming Practicum
 Assignments done for the class. Each assignment includes the original code supplied for the assignment, assignment details, and the solutions I coded up myself
 
